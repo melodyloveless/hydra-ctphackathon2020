@@ -13,7 +13,7 @@ Hydra is an open source platform for live coding visuals created by [Olivia Jack
 - Audioreactivity
 - Bonus Source: Movie/Image
 
-### Download a .zip of starter code for this workshop
+### [Download a .zip of starter code for this workshop](https://drive.google.com/drive/folders/1BkOtscY3BwozzdRTPRd3h6A_LFSqXdAM?usp=sharing)
 
 ## Links
 
