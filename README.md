@@ -15,6 +15,21 @@ Hydra is an open source platform for live coding visuals created by [Olivia Jack
 
 ### [Download a .zip of starter code for this workshop](https://drive.google.com/drive/folders/1BkOtscY3BwozzdRTPRd3h6A_LFSqXdAM?usp=sharing)
 
+### Two Ways of Using Hydra
+1. Using a Web Browser: https://hydra.ojack.xyz/
+- Pros: Easy to start/use
+- Cons: Can't save work/notes easily
+
+2. Using Atom
+- Download/install Atom
+- Install Hydra inside of Atom:
+
+How to install Hydra package within Atom:
+- Open Preferences
+- Click Install on left sidebar
+- Search for "atom-hydra" using search bar and click install
+- Restart atom editor
+
 ## Links
 
 ### Hydra 
