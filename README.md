@@ -21,7 +21,7 @@ Hydra is an open source platform for live coding visuals created by [Olivia Jack
 - [Hydra (In Browser)](https://hydra.ojack.xyz/)
 - [Hydra Patterns](https://twitter.com/hydra_patterns)
 - [Hydra Book by Naoto Hieda](https://hydra-book.naotohieda.com/#/)
-- [Hydra Examples by Zach Krall](https://github.com/zachkrall)
+- [Hydra Examples by Zach Krall](https://github.com/zachkrall/hydra-examples)
 - [Hydra Synth Facebook Group](https://www.facebook.com/groups/1084288351771117/)
 
 ### General Live Coding
