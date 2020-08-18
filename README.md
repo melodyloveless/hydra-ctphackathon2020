@@ -2,7 +2,7 @@
 Code and materials for the Hydra Workshop (August 18, 2020). Part of the CUNY Tech Prep Hackathon 2020.
 
 ## About Hydra
-Hydra is an open source platform for live coding visuals created by [Olivia Jack](https://ojack.xyz/). 
+[Hydra is an open source platform](https://github.com/ojack/hydra) for live coding visuals created by [Olivia Jack](https://ojack.xyz/). 
 
 ## Table of Contents 
 - Getting Started + Sources
@@ -33,6 +33,7 @@ Hydra is an open source platform for live coding visuals created by [Olivia Jack
 ## Links
 
 ### Hydra 
+- [Official Hydra GitHub by Olivia Jack](https://github.com/ojack/hydra)
 - [Hydra (In Browser)](https://hydra.ojack.xyz/)
 - [Hydra Patterns](https://twitter.com/hydra_patterns)
 - [Hydra Book by Naoto Hieda](https://hydra-book.naotohieda.com/#/)
