@@ -22,9 +22,9 @@ Hydra is an open source platform for live coding visuals created by [Olivia Jack
 
 2. Using Atom
 - Download/install Atom
-- Install Hydra inside of Atom:
+- Install Hydra inside of Atom
 
-How to install Hydra package within Atom:
+<em>How to install Hydra package within Atom:</em>
 - Open Preferences
 - Click Install on left sidebar
 - Search for "atom-hydra" using search bar and click install
