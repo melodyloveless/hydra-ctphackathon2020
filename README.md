@@ -1,5 +1,5 @@
 # hydra-ctphackathon2020
-Code and materials for the Hydra Workshop (August 18, 2020). Part of the CUNY Tech Prep Hackathon 2020.
+Code and materials for a Hydra Workshop (August 18, 2020). Part of the [CUNY Tech Prep Hackathon 2020](https://www.ctphomehacks.com/).
 
 ## About Hydra
 [Hydra is an open source platform](https://github.com/ojack/hydra) for live coding visuals created by [Olivia Jack](https://ojack.xyz/). 
@@ -12,16 +12,17 @@ Code and materials for the Hydra Workshop (August 18, 2020). Part of the CUNY Te
 - Modifying Sources
 - Global Variables
 - Working with Multiple Outputs
+- Webcam as a Source
 - Feedback Loops
 - Audioreactivity
 - Bonus Source: Movie/Image
 
 ### Two Ways of Using Hydra
-1. Using a Web Browser: https://hydra.ojack.xyz/
+<strong>1. Using a Web Browser: https://hydra.ojack.xyz/</strong>
 - Pros: Easy to start/use
 - Cons: Can't save work/notes easily
 
-2. Using Atom
+<strong>2. Using Atom</strong>
 - Download/install [Atom](https://atom.io/)
 - Install Hydra inside of Atom
 
