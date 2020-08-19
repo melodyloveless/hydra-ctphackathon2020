@@ -4,7 +4,10 @@ Code and materials for the Hydra Workshop (August 18, 2020). Part of the CUNY Te
 ## About Hydra
 [Hydra is an open source platform](https://github.com/ojack/hydra) for live coding visuals created by [Olivia Jack](https://ojack.xyz/). 
 
-## Table of Contents 
+## Materials for Workshop
+### [Download a .zip of starter code for this workshop](https://drive.google.com/drive/folders/1BkOtscY3BwozzdRTPRd3h6A_LFSqXdAM?usp=sharing)
+
+### Table of Contents 
 - Getting Started + Sources
 - Modifying Sources
 - Global Variables
@@ -13,18 +16,16 @@ Code and materials for the Hydra Workshop (August 18, 2020). Part of the CUNY Te
 - Audioreactivity
 - Bonus Source: Movie/Image
 
-### [Download a .zip of starter code for this workshop](https://drive.google.com/drive/folders/1BkOtscY3BwozzdRTPRd3h6A_LFSqXdAM?usp=sharing)
-
 ### Two Ways of Using Hydra
 1. Using a Web Browser: https://hydra.ojack.xyz/
 - Pros: Easy to start/use
 - Cons: Can't save work/notes easily
 
 2. Using Atom
-- Download/install Atom
+- Download/install [Atom](https://atom.io/)
 - Install Hydra inside of Atom
 
-<em>How to install Hydra package within Atom:</em>
+<em>How to install [Hydra in Atom](https://atom.io/packages/atom-hydra):</em>
 - Open Preferences
 - Click Install on left sidebar
 - Search for "atom-hydra" using search bar and click install
@@ -44,3 +45,4 @@ Code and materials for the Hydra Workshop (August 18, 2020). Part of the CUNY Te
 - [TOPLAP](https://toplap.org/)
 - [Awesome Live Coding](https://github.com/toplap/awesome-livecoding)
 - [Algorave](https://algorave.com/)
+- [Livecode.nyc](https://livecode.nyc/)
